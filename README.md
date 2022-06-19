@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https//www.linkedin.com/in/johngillott/), [Twitter](https://twitter.com/jsgillott)
 
 - Programming Languages: Rust 🦀, Go, JavaScript, SQL
-- Stack: Google Cloud Platform, PostgreSQL, Kubernetes, Linux :penguin:
+- Stack: Google Cloud Platform, Kubernetes, Amazon Web Services, Linux :penguin:
