@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the new and exciting order fulfilment systems written in Rust and Go, [@Nando's UK & IRE](https://github.com/nandosuk/)
 - Previously worked on low-latency, highly available & scalable microservices written in Go, [@bet365](https://github.com/bet365/)
 - 🌱 I’m currently learning Rust :crab:
-- 📫 How to reach me: [LinkedIn](https//www.linkedin.com/in/johngillott/), [Twitter](https://twitter.com/jsgillott)
 
 - Programming Languages: Rust 🦀, Go, JavaScript, SQL
 - Stack: Google Cloud Platform, Kubernetes, Amazon Web Services, Linux :penguin:
