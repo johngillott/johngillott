@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the new and exciting order fulfilment systems written in Rust and Go, [@Nando's UK & IRE](https://github.com/nandosuk/)
+- 🔭 I work on Nando's Platform, written in Rust and Go, [@Nando's UK & IRE](https://github.com/nandosuk/)
 - Previously worked on low-latency, highly available & scalable microservices written in Go, [@bet365](https://github.com/bet365/)
-- 🌱 I’m currently learning Rust :crab:
+- 🌱 I’m currently studying GCP Associate Cloud Engineer certification ☁️ and advanced Rust tooling :crab:
 
-- Programming Languages: Rust 🦀, Go, JavaScript, SQL
+- Programming Languages: Rust 🦀, Go, TypeScript, SQL
 - Stack: Google Cloud Platform, Kubernetes, Amazon Web Services, Linux :penguin:
