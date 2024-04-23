@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying GCP Associate Cloud Engineer certification ☁️ and advanced Rust tooling :crab:
 
 - Programming Languages: Rust 🦀, Go, TypeScript, SQL
-- Stack: Google Cloud Platform, Kubernetes, Amazon Web Services, Linux :penguin:
+- Stack: Google Cloud, Managed Kubernetes, and Linux :penguin:
